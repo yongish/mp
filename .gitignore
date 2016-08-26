@@ -1,3 +1,25 @@
+.DS_Store
+.idea/
+Application.cpp
+Application.h
+CMakeLists.txt
+EmulNet.cpp
+EmulNet.h
+Grader.sh
+Log.cpp
+Log.h
+Makefile
+Member.cpp
+Member.h
+Params.cpp
+Params.h
+Queue.h
+mp1_specifications.pdf
+run.sh
+stdincludes.h
+submit.py
+testcases/
+
 # Compiled Object files
 *.slo
 *.lo
@@ -27,3 +49,4 @@
 *.exe
 *.out
 *.app
+
